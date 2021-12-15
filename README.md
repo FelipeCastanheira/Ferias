@@ -12,7 +12,7 @@
 
 ## Resultado esperado:
 
-![](/home/breno5g/.config/marktext/images/2021-12-14-10-52-32-image.png)
+![](./resultado.png)
 
 ---
 
